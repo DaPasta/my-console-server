@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/admins", "destination": "/api/admins" }
+    { "source": "/admins", "destination": "/public/admins.json" }
   ]
 }
