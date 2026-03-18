@@ -1,5 +1,8 @@
 {
-  "min-CXS-version": "4.0.0",
+  "discord-invite": "https://discord.gg/yourinvite",
+  "motd": "Welcome!",
+  "min-version": "1.0.0",
+  "menu-version": "1.0.0",
   "admins": [
     {
       "name": "PASTA",
@@ -9,5 +12,11 @@
   ],
   "super-admins": [
     "PASTA"
-  ]
+  ],
+  "detected-mods": [],
+  "poll": {
+    "question": "What goes well with cheeseburgers?",
+    "option-a": "Fries",
+    "option-b": "Chips"
+  }
 }
