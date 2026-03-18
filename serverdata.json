@@ -1,0 +1,13 @@
+{
+  "min-CXS-version": "4.0.0",
+  "admins": [
+    {
+      "name": "PASTA",
+      "user-id": "3EF5A4B8A0EE7BA8",
+      "menu": "seralyth"
+    }
+  ],
+  "super-admins": [
+    "PASTA"
+  ]
+}
