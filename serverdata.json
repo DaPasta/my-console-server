@@ -1,8 +1,9 @@
 {
   "discord-invite": "https://discord.gg/yourinvite",
-  "motd": "Welcome!",
+  "motd": "WELCOME TO THE MENU, PASTA TOTALLY MADE THIS!!",
   "min-version": "1.0.0",
   "menu-version": "1.0.0",
+  "min-console-version": "1.0.0",
   "admins": [
     {
       "name": "PASTA",
@@ -13,10 +14,9 @@
   "super-admins": [
     "PASTA"
   ],
-  "detected-mods": [],
-  "poll": {
-    "question": "What goes well with cheeseburgers?",
-    "option-a": "Fries",
-    "option-b": "Chips"
-  }
+  "patreon": [],
+  "poll": "What goes well with cheeseburgers?",
+  "option-a": "Fries",
+  "option-b": "Chips",
+  "detected-mods": []
 }
