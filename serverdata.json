@@ -4,16 +4,24 @@
   "min-version": "1.0.0",
   "menu-version": "1.0.0",
   "min-console-version": "1.0.0",
+
   "admins": [
     {
-      "name": "PASTA",
+      "name": "Pasta",
       "user-id": "19838AEC7D8AA25E",
       "menu": "Seralyth"
+    },
+    {
+      "name": "Synth",
+      "user-id": "A42C466800D5920E",
+      "menu": "hamburbur"
     }
   ],
+
   "super-admins": [
-    "PASTA"
+    "PASTA",
   ],
+
   "patreon": [],
   "poll": "What goes well with cheeseburgers?",
   "option-a": "Fries",
