@@ -8,7 +8,7 @@
   "admins": [
     {
       "name": "Pasta",
-      "user-id": "19838AEC7D8AA25E",
+      "user-id": "3EF5A4B8A0EE7BA8",
       "menu": "Seralyth"
     },
     {
@@ -16,12 +16,6 @@
       "user-id": "A42C466800D5920E",
       "menu": "Seralyth"
     },
-   {
-      "name": "Mr Lag",
-      "user-id": "CE6CC405A9F244F8",
-      "menu": "Seralyth"
-    }
-  ],
 
   "super-admins": [
     "Pasta",
