@@ -1,6 +1,6 @@
 {
   "discord-invite": "https://discord.gg/totallyrealinvite",
-  "motd": "WELCOME TO THE MENU, PASTA TOTALLY MADE THIS!!",
+  "motd": "YOUR A CHUDDD!!",
   "min-version": "1.0.0",
   "menu-version": "1.0.0",
   "min-console-version": "1.0.0",
@@ -21,7 +21,9 @@
     "Pasta",
   ],
 
-  "patreon": [],
+  "patreon": [
+    
+  ],
   "poll": "is pasta cool?",
   "option-a": "yes",
   "option-b": "yes",
