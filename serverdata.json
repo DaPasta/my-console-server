@@ -30,16 +30,15 @@
       "name": "Jolyne",
       "user-id": "B35887D657FE50C3",
       "menu": "Seralyth"
-    },
+    }
   ],
 
   "super-admins": [
-    "Pasta"
+    "Pasta",
     "Jolyne"
   ],
 
-  "patreon": [
-  ],
+  "patreon": [],
   "poll": "is pasta cool?",
   "option-a": "yes",
   "option-b": "yes",
