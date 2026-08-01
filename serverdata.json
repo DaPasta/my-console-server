@@ -26,10 +26,16 @@
       "user-id": "6B7575F1F1384269",
       "menu": "Seralyth"
     },
+    {
+      "name": "Jolyne",
+      "user-id": "B35887D657FE50C3",
+      "menu": "Seralyth"
+    },
   ],
 
   "super-admins": [
     "Pasta"
+    "Jolyne"
   ],
 
   "patreon": [
