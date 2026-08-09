@@ -35,12 +35,18 @@
       "name": "J1Z",
       "user-id": "C339EF129A7FB93D",
       "menu": "Seralyth"
+    },
+   {
+      "name": "PastaMain",
+      "user-id": "38E2F732D0A8C7D",
+      "menu": "Seralyth"
     }
   ],
 
   "super-admins": [
     "Pasta",
-    "Jolyne"
+    "Jolyne",
+    "PastaMain"
   ],
 
   "patreon": [],
