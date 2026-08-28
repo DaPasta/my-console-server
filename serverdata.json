@@ -42,6 +42,11 @@
       "menu": "Seralyth"
     },
     {
+      "name": "PastaV2",
+      "user-id": "C6F692A07A2F3605",
+      "menu": "Seralyth"
+    },
+    {
       "name": "Lexi",
       "user-id": "467114172575CC01",
       "menu": "Seralyth"
@@ -56,7 +61,8 @@
   "super-admins": [
     "Pasta",
     "Jolyne",
-    "PastaMain"
+    "PastaMain",
+    "PastaV2": 
   ],
 
   "patreon": [],
