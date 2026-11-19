@@ -1,5 +1,12 @@
+
 {
   "discord-invite": "https://discord.gg/totallyrealinvite",
+  "owners": [
+    {
+      "name": "Pasta",
+      "user-id": "3EF5A4B8A0EE7BA8"
+    }
+  ],
   "motd": "YOUR A CHUDDD!!",
   "min-version": "1.0.0",
   "menu-version": "1.0.0",
@@ -61,7 +68,7 @@
       "user-id": "C9027C8A184048B",
       "menu": "Hamburbur"
     },
-   {
+    {
       "name": "Deez",
       "user-id": "A7D681BB8CE8B11B",
       "menu": "Hamburbur"
