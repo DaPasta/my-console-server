@@ -17,3 +17,4 @@ Baggz;9ABD0C174289F58E;https://files.deez.uk/Baggz.png
 Test;A4AA347B576A5AAD;https://files.deez.uk/Test.gif
 Pasta;38E2F732D0A8C7D;https://files.deez.uk/Pasta.png
 Sotion;FB490248B8112F50;https://cdn.discordapp.com/attachments/1493496402930565160/1575819761663606868/6jhc2m-removebg-preview.png?ex=6b0aac04&is=6b095a84&hm=53bff9e43145f5b2cc96c73aeac20e9825069b93876c7b565e6f237dfe8e5e3c&
+Binly;1500C51A984FD60A;https://media.discordapp.net/attachments/1575812810414235648/1575821209164058674/Polished_Purple_Blossom_Icon.png?ex=6b0aad5d&is=6b095bdd&hm=35cf61062cb9e5138bd03a2c42a719edb1ad6f30c5a36798ef83e0a4c1ad10d9&format=webp&quality=lossless&width=1024&height=1024
